@@ -1,0 +1,7 @@
+1 Mahalakshmi 18 c++
+2 Sudharsan 19 python
+3 Narmatha 18 java
+5 dharshu 18 java
+4 Angalaeswari 18 c++
+6 parvathy 20 java
+7 papanasam 22 excel
